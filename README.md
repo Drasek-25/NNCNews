@@ -1,0 +1,1 @@
+This was my second lab project from Redwood Code Academy, this was a challange after myu first lab, i had to teach myself flexbox before I was able to attempt this.
